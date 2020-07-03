@@ -1,0 +1,7 @@
+.dropdown-help{
+	display: none !important;
+}
+
+a.module-link[data-name="Learn"] {
+    display: none !important;
+}
