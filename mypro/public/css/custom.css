@@ -5,3 +5,7 @@
 a.module-link[data-name="Learn"] {
     display: none !important;
 }
+
+a.strong.help-link {
+    display: none !important;
+}
